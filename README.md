@@ -1,28 +1,25 @@
-<h1>SymptoSage: AI Symptom-Based Disease Predictor</h1>
-<p>SymptoSage is an advanced AI project designed to predict diseases based on symptoms provided by the user. 
-  Leveraging cutting-edge machine learning algorithms, SymptoSage calculates the probability of various diseases using input symptoms.</p>
+# SymptoSage: AI Symptom-Based Disease Predictor
 
+SymptoSage is a sophisticated AI project aimed at diagnosing diseases from user-reported symptoms. It utilizes state-of-the-art machine learning algorithms to assess the likelihood of various diseases based on the symptoms entered by the user.
 
-  ## Features
-  <ul>
-    <li>Symptom Input: Users can input symptoms they are experiencing.</li>
-    <li>Disease Prediction: Predicts the likelihood of various diseases based on input symptoms.</li>
-        <li>Probabilistic Results: Provides detailed probabilities for each predicted disease.</li>
-        <li>Intuitive Interface: User-friendly interface for easy interaction and result visualization.</li>
-  </ul>
+## Features
+
+- **Symptom Input**: Allows users to enter the symptoms they are experiencing.
+- **Disease Prediction**: Analyzes the input symptoms to predict possible diseases.
+- **Probabilistic Results**: Offers a detailed probability analysis for each disease prediction.
+- **Intuitive Interface**: Provides an easy-to-use interface for seamless interaction and visualization of results.
+
 ## Usage
-<ol>
-  <li>  Enter Symptoms: Input symptoms in the provided interface.</li>
-   <li>Generate Prediction: Click on the predict button to compute disease probabilities.</li>
-   <li>View Results: Results display predicted diseases along with their probabilities.</li>
-</ol>
+
+1. **Enter Symptoms**: Users should input their symptoms into the designated field.
+2. **Generate Prediction**: By clicking the 'predict' button, the system will process the symptoms and generate predictions.
+3. **View Results**: The interface will display the diseases predicted along with their respective probabilities.
 
 ## Requirements
-<ol>
-  <li>Python 3.x</li>
-   <li>Libraries: scikit-learn, numpy, pandas (install using pip install -r requirements.txt).</li>
-   
-</ol>
-## How to Run
-<p>Execute main.py to launch the application</p>
 
+- Python 3.x
+- Required Libraries: Ensure scikit-learn, numpy, and pandas are installed. This can be done by running `pip install -r requirements.txt`.
+
+## How to Run
+
+To start the application, run `main.py` from your terminal or command prompt.
