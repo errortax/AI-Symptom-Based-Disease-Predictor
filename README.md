@@ -1,4 +1,4 @@
-# SymptoSage: AI Symptom-Based Disease Predictor
+# AI Symptom-Based Disease Predictor
 
 SymptoSage is a sophisticated AI project aimed at diagnosing diseases from user-reported symptoms. It utilizes state-of-the-art machine learning algorithms to assess the likelihood of various diseases based on the symptoms entered by the user.
 
